@@ -2,7 +2,7 @@
 
 
     render() {
-        return <h1> Hello React</h1>;
+        return <h1> Hello React, Usando react desde vs 2019</h1>;
     }
 }
 
